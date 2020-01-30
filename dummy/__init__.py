@@ -17,7 +17,7 @@ from .libfile2 import *
 
 
 __copyright__ = "Copyright 2019"
-__version__ = "0.0.0"
+__version__ = "0.0.1"
 __update__="15/09/2019"
 
 
